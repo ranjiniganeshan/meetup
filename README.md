@@ -2,7 +2,7 @@
 
 ### Elastic cloud Account
 
-#### [prerequiste]
+#### Prerequiste
 ```
 [(https://cloud.elastic.co/registration)]
 ```
