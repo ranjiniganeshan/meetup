@@ -4,6 +4,6 @@
 
 #### Prerequiste
 ```
-[(https://cloud.elastic.co/registration)]
+https://cloud.elastic.co/registration
 ```
 
